@@ -11,5 +11,6 @@ My name is Iori Matsuda. I am a web application developper. I was born in Kanaga
 
 Quick reply in order from the top.
 
-- Twitter(Japanese) https://twitter.com/h1manoa
+- Discord: himanoa#0514
+- Twitter(Japanese): https://twitter.com/h1manoa
 - Email: matsunoappy@gmail.com
