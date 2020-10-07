@@ -2,8 +2,8 @@
 
 ## himanoa
 
-[!himanoa](./img/himanoa.ong)
+[!himanoa](./img/himanoa.png)
 
 ## fumanoa
 
-[!fumanoa](./img/fumanoa.ong)
+[!fumanoa](./img/fumanoa.png)
