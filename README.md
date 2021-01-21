@@ -1,6 +1,6 @@
 ## About me
 
-My name is †THE STORONGEST SHADOW† Iori Matsuda. I am a web application developper. I was born in Kanagawa in Japan, in 1998. Working at [A1A](https://github.com/a1a)
+am a web application developper.
 
 ### Other profiles
 
