@@ -1,6 +1,6 @@
 ## About me
 
-I am a web application developper.
+I am a web application developer.
 
 ### Other profiles
 
