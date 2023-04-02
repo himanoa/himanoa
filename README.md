@@ -12,6 +12,6 @@ I am a web application developper.
 Quick reply in order from the top.
 
 - Discord: himanoa#0514
-- Mastodon: [@himanoa@mstdn.maud.io](https://mstdn.maud.io)
+- Mastodon: [@himanoa@mstdn.maud.io](https://mstdn.maud.io/@himanoa)
 - Twitter(Japanese): https://twitter.com/h1manoa
 - Email: matsunoappy@gmail.com
